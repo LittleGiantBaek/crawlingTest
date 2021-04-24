@@ -1,0 +1,25 @@
+{
+  "name": "crawlingTest",
+  "version": "1.0.0",
+  "description": "- This project is for crawl some data from specific website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleGiantBaek/crawlingTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LittleGiantBaek/crawlingTest/issues"
+  },
+  "homepage": "https://github.com/LittleGiantBaek/crawlingTest#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.6",
+    "iconv-lite": "^0.6.2"
+  }
+}
